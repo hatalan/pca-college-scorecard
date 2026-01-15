@@ -14,7 +14,7 @@ library(cluster)
 library(ggrepel)
 library(ggdendro)
 
-setwd("C:/Users/irgroup/Documents/Projects/pca-college-scorecard/data")
+#Testing GitHub
 
 # Reading in institution data
 institution <- read.csv("Most-Recent-Cohorts-Institution_05192025.csv")
