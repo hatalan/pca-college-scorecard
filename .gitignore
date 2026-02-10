@@ -1,0 +1,17 @@
+# Data
+data/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+
+# Quarto
+.quarto/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
