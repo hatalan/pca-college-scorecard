@@ -22,7 +22,7 @@ library(ggrepel)
 library(ggdendro)
 ```
 
-## Data Loading
+## College Scorecard Data Loading
 
 ```{r load-data}
 institution <- read.csv("../data/Most-Recent-Cohorts-Institution.csv") %>%
